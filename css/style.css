@@ -1,0 +1,53 @@
+body {
+  background-color:rgb(114, 35, 43)!important;
+}
+
+
+nav{
+  background-color:rgb(114, 35, 43);
+}
+
+
+
+/* start landing */
+.name{
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.email{
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.job{
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+/* end landing */
+
+
+
+
+
+/* start about */
+.container{
+  border: 3px solid gold;
+}
+/* end about */
+
+
+/* start social media */
+.btn{
+  background-color: gold!important;
+}
+
+.card-img-topy{
+  height: 18rem;
+}
+
+.card{
+  margin: 0 auto;
+}
+/* end social media */
